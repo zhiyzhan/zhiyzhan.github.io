@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <dependencies>
+    <dependency>
+      <groupId>com.google.template</groupId>
+      <artifactId>soy</artifactId>
+      <version>2014-08-12</version>
+    </dependency>
+  </dependencies>
+</metadata>
